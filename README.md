@@ -1,8 +1,8 @@
-# rain
+# Weather App
 
-A new Flutter project.
+A simple Weather app tells the climate of your current loaction by fetching the data from api also get weather data of any city you want.
 
-## Getting Started
+## Motivation
 
 This project is a starting point for a Flutter application.
 
