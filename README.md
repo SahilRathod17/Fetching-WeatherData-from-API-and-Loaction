@@ -8,6 +8,10 @@ A simple Weather app that tells the climate of your current loaction by fetching
 - [HTTP](https://pub.dev/packages/http)
 - [Flutter_SpinKit](https://pub.dev/packages/flutter_spinkit)
 
+## API Used 
+
+- [OpenWeatherMap](https://openweathermap.org/)
+
 ## Motivation
 
 [londonappbrewery](https://github.com/londonappbrewery/bmi-calculator-flutter)
